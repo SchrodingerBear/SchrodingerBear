@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Sean Charles Pugosa</h1>
 <h3 align="center">A very experienced developer, a tech-savvy with a passion for crafting innovative solutions, digital and physical technology. With 10-year journey in the world of computers, I have honed my skills and obtained valuable knowledge that I use to help and influence others.</h3>
 
-- 👨‍💻 All of my projects are available at [bit.ly/scvp_projects](bit.ly/scvp_projects)
-
-- 💬 Ask me about [bit.ly/scvp_appointment](bit.ly/scvp_projects)
-
-- 📫 How to reach me **seancvpugosa@gmail.com**
-
-- 📄 Know about my experiences [bit.ly/scvp_profile](bit.ly/scvp_profile)
+<ul>
+  <li>👨‍💻 All of my projects are available at <a href="https://bit.ly/scvp_projects">bit.ly/scvp_projects</a></li>
+  <li>💬 Ask me about <a href="https://bit.ly/scvp_appointment">bit.ly/scvp_appointment</a></li>
+  <li>📫 How to reach me: <a href="mailto:seancvpugosa@gmail.com">seancvpugosa@gmail.com</a></li>
+  <li>📄 Know about my experiences: <a href="https://bit.ly/scvp_profile">bit.ly/scvp_profile</a></li>
+</ul>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
