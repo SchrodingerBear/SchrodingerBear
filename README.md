@@ -36,6 +36,9 @@
 </p>
 <h3 align="left">Backend Development:</h3>
 <p align="left">
+      <a href="[#](https://www.php.net/)" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/800px-PHP-logo.svg" alt="c" width="40" height="40"/>
+    </a>
     <!-- Add backend development icons here -->
 </p>
 <h3 align="left">Database:</h3>
