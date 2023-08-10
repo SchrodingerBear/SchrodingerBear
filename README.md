@@ -1,3 +1,4 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4yms/XbBpCXGSHI/AAAAAAAA4/00a1bplskygrub11h5u250_Mig8SXJQCLcBGASYHQ/s1600/2800_600px.gif)](https://rishavchanda.lo)
 <h1 align="center">Hi 👋, I'm Sean Charles Pugosa</h1>
 <h3 align="center">A very experienced developer, a tech-savvy with a passion for crafting innovative solutions, digital and physical technology. With 10-year journey in the world of computers, I have honed my skills and obtained valuable knowledge that I use to help and influence others.</h3>
 
