@@ -43,6 +43,9 @@
     <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
     </a>
+      <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/2560px-SQLite370.svg.png" alt="oracle" width="40" height="40"/>
+    </a>
     <!-- Add more database icons here -->
 </p>
 <h3 align="left">Devops:</h3>
