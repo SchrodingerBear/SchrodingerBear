@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [bit.ly/scvp_projects](bit.ly/scvp_projects)
 
-- 💬 Ask me about **bit.ly/scvp_appointment**
+- 💬 Ask me about [bit.ly/scvp_appointment](bit.ly/scvp_projects)
 
 - 📫 How to reach me **seancvpugosa@gmail.com**
 
