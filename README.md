@@ -8,7 +8,7 @@
   <li>📄 Know about my experiences: <a href="https://bit.ly/scvp_profile" target="_blank">bit.ly/scvp_profile</a></li>
 </ul>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Programming Languages:</h3>
 <p align="left">
     <a href="https://www.java.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
@@ -21,6 +21,7 @@
     </a>
     <!-- Add more language icons here -->
 </p>
+<h3 align="left">Frontend Development:</h3>
 <p align="left">
     <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
@@ -33,9 +34,11 @@
     </a>
     <!-- Add more frontend development icons here -->
 </p>
+<h3 align="left">Backend Development:</h3>
 <p align="left">
     <!-- Add backend development icons here -->
 </p>
+<h3 align="left">Database:</h3>
 <p align="left">
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
@@ -45,12 +48,14 @@
     </a>
     <!-- Add more database icons here -->
 </p>
+<h3 align="left">Devops:</h3>
 <p align="left">
     <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
     </a>
     <!-- Add more DevOps icons here -->
 </p>
+<h3 align="left">Softwares:</h3>
 <p align="left">
     <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
