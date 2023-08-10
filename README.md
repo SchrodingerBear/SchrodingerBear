@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src=https://github.com/SchrodingerBear/SchrodingerBear.github.io/blob/main/images/Your%20paragraph%20text.gif?raw=true" width="2000" heigth="1000"/>
+  <img src=https://github.com/SchrodingerBear/SchrodingerBear.github.io/blob/main/images/profileicongif.gif?raw=true" width="2000" heigth="1000"/>
 </div>
 
 <h1 align="center">Hi 👋, I'm Sean Charles Pugosa</h1>
@@ -13,7 +13,7 @@
 </ul>
 
 <h3 align="left">Programming Languages:</h3>
-<img align="right" alt="Coding" width="400" src="https://video-public.canva.com/VAFBm4TLqDk/v/30fe5dbf3c.gif">
+<img align="right" alt="Coding" width="400" src="https://github.com/SchrodingerBear/SchrodingerBear.github.io/blob/main/images/profileicongif.gif?raw=true">
 <p align="left">
     <a href="https://www.java.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
