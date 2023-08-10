@@ -24,7 +24,7 @@
 <h3 align="left">Frontend Development:</h3>
 <p align="left">
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-        <img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-devextreme-multi-purpose-controls-html-javascript-3.png" alt="css3" width="100" height="40"/>
+        <img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-devextreme-multi-purpose-controls-html-javascript-3.png" alt="css3" width="120" height="40"/>
     </a>
     <!-- Add more frontend development icons here -->
 </p>
