@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://static.vecteezy.com/system/resources/previews/001/308/284/original/gradient-web-banner-template-for-corporate-business-vector.jpg" width="100"/>
+  <img src="https://static.vecteezy.com/system/resources/previews/001/308/284/original/gradient-web-banner-template-for-corporate-business-vector.jpg" width="500"/>
 </div>
 
 <h1 align="center">Hi 👋, I'm Sean Charles Pugosa</h1>
