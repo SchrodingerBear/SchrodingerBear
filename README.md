@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src=https://github.com/SchrodingerBear/SchrodingerBear.github.io/blob/main/images/profileicongif.gif?raw=true" width="2000" heigth="1000"/>
+  <img src=https://github.com/SchrodingerBear/SchrodingerBear.github.io/blob/main/images/profilehgif.gif?raw=true" width="2000" heigth="1000"/>
 </div>
 
 <h1 align="center">Hi 👋, I'm Sean Charles Pugosa</h1>
