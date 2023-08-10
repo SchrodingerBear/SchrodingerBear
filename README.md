@@ -2,18 +2,18 @@
 <h3 align="center">A very experienced developer, a tech-savvy with a passion for crafting innovative solutions, digital and physical technology. With 10-year journey in the world of computers, I have honed my skills and obtained valuable knowledge that I use to help and influence others.</h3>
 
 <ul>
-  <li>👨‍💻 All of my projects are available at <a href="https://bit.ly/scvp_projects">bit.ly/scvp_projects</a></li>
-  <li>💬 Ask me about <a href="https://bit.ly/scvp_appointment">bit.ly/scvp_appointment</a></li>
-  <li>📫 How to reach me: <a href="mailto:seancvpugosa@gmail.com">seancvpugosa@gmail.com</a></li>
-  <li>📄 Know about my experiences: <a href="https://bit.ly/scvp_profile">bit.ly/scvp_profile</a></li>
+  <li>👨‍💻 All of my projects are available at <a href="https://bit.ly/scvp_projects" target="_blank">bit.ly/scvp_projects</a></li>
+  <li>💬 Ask me about <a href="https://bit.ly/scvp_appointment" target="_blank">bit.ly/scvp_appointment</a></li>
+  <li>📫 How to reach me: <a href="mailto:seancvpugosa@gmail.com" target="_blank">seancvpugosa@gmail.com</a></li>
+  <li>📄 Know about my experiences: <a href="https://bit.ly/scvp_profile" target="_blank">bit.ly/scvp_profile</a></li>
 </ul>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/primroseredbud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="primroseredbud" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/scvpprofile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="scvpprofile" height="30" width="40" /></a>
-<a href="https://fb.com/scvpfb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="scvpfb" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/scvp783" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="scvp783" height="30" width="40" /></a>
+  <a href="https://codepen.io/primroseredbud" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="primroseredbud" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/scvpprofile" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="scvpprofile" height="30" width="40" /></a>
+  <a href="https://fb.com/scvpfb" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="scvpfb" height="30" width="40" /></a>
+  <a href="https://www.youtube.com/c/scvp783" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="scvp783" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
