@@ -71,3 +71,9 @@
     </a>
     <!-- Add more game engine icons here -->
 </p>
+
+<style>
+  a {
+    margin-right: 20px;
+  }
+</style>
