@@ -1,4 +1,4 @@
-[![MasterHead](https://i.gifer.com/g2vO.gif)](https://rishavchanda.lo)
+![Header](./[https://i.gifer.com/g2vO.gif])
 <h1 align="center">Hi 👋, I'm Sean Charles Pugosa</h1>
 <h3 align="center">A very experienced developer, a tech-savvy with a passion for crafting innovative solutions, digital and physical technology. With 10-year journey in the world of computers, I have honed my skills and obtained valuable knowledge that I use to help and influence others.</h3>
 
