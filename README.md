@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://drive.google.com/uc?export=view&id=10ivNJ_9IBV0QwE9S7Hbep3Z2DxD8ggVV" width="2000" heigth="1000"/>
+  <img src=https://github.com/SchrodingerBear/SchrodingerBear.github.io/blob/main/images/Your%20paragraph%20text.gif?raw=true" width="2000" heigth="1000"/>
 </div>
 
 <h1 align="center">Hi 👋, I'm Sean Charles Pugosa</h1>
