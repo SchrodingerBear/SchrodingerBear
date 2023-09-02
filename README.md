@@ -94,4 +94,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=schrodingerbear&show_icons=true&locale=en" alt="schrodingerbear" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=schrodingerbear&show_icons=true&locale=en&layout=compact" alt="schrodingerbear" /></p>
 
-![Visitor Count](https://profile-counter.glitch.me/{SchrodingerBear}/count.svg)
