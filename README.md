@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src=https://github.com/SchrodingerBear/SchrodingerBear.github.io/blob/main/images/profilehgif.gif?raw=true" width="2000" heigth="1000"/>
+  <img src=https://github.com/SchrodingerBear/SchrodingerBear/blob/7a1c7da745d2b5111f5fee0bd96f471a573bf9b6/asset/gifprofile.gif" width="2000" heigth="1000"/>
 </div>
  <div style="text-align: center;">
         <a href="https://m.youtube.com/carlcastanas"><img src="https://img.shields.io/badge/Sean Pugosa-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
