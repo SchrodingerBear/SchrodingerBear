@@ -1,6 +1,13 @@
 <div id="header" align="center">
   <img src=https://github.com/SchrodingerBear/SchrodingerBear.github.io/blob/main/images/profilehgif.gif?raw=true" width="2000" heigth="1000"/>
 </div>
+<div align="center">
+  <a href = "https://youtube.com/@scvp783?si=xkJnZ2pBloHag8mj"><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  /></a>
+
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
 
 <h1 align="center">Hi 👋, I'm Sean Charles Pugosa</h1>
 <h3 align="center">A very experienced developer, a tech-savvy with a passion for crafting innovative solutions, digital and physical technology. With 10-year journey in the world of computers, I have honed my skills and obtained valuable knowledge that I use to help and influence others.</h3>
@@ -12,6 +19,7 @@
   <li>📄 Know about my experiences: <a href="https://bit.ly/scvp_profile" target="_blank">bit.ly/scvp_profile</a></li>
 </ul>
 
+<hr>
 <h3 align="left">Programming Languages:</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/SchrodingerBear/SchrodingerBear.github.io/blob/main/images/profileicongif.gif?raw=true">
 <p align="left">
@@ -81,8 +89,8 @@
     <!-- Add more game engine icons here -->
 </p>
 
+<hr>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=schrodingerbear&" alt="schrodingerbear" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=schrodingerbear&show_icons=true&locale=en" alt="schrodingerbear" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=schrodingerbear&show_icons=true&locale=en&layout=compact" alt="schrodingerbear" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=schrodingerbear&show_icons=true&locale=en" alt="schrodingerbear" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=schrodingerbear&" alt="schrodingerbear" /></p>
