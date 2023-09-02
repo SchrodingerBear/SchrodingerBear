@@ -1,13 +1,12 @@
 <div id="header" align="center">
   <img src=https://github.com/SchrodingerBear/SchrodingerBear.github.io/blob/main/images/profilehgif.gif?raw=true" width="2000" heigth="1000"/>
 </div>
-<div align="center">
-  <a href = "https://youtube.com/@scvp783?si=xkJnZ2pBloHag8mj"><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  /></a>
-
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+ <div style="text-align: center;">
+        <a href="https://m.youtube.com/carlcastanas"><img src="https://img.shields.io/badge/Sean Pugosa-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+        <a href="https://instagram.com/carlcastanas"><img src="https://img.shields.io/badge/Sean Pugosa-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+        <a href="https://www.linkedin.com/in/carlcastanas/"><img src="https://img.shields.io/badge/Sean Pugosa-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
+        <a href="https://www.facebook.com/carlcastanas/"><img src="https://img.shields.io/badge/Sean Pugosa-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+    </div>
 
 <h1 align="center">Hi 👋, I'm Sean Charles Pugosa</h1>
 <h3 align="center">A very experienced developer, a tech-savvy with a passion for crafting innovative solutions, digital and physical technology. With 10-year journey in the world of computers, I have honed my skills and obtained valuable knowledge that I use to help and influence others.</h3>
