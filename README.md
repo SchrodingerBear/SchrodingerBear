@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://github.com/SchrodingerBear/SchrodingerBear/blob/main/asset/gifprofile.gif?raw=true" width="2000" heigth="1000"/>
+  <img src="asset/gifprofile.gif?raw=true" width="2000" heigth="1000"/>
 </div>
  <div style="text-align: center;">
         <a href="https://www.youtube.com/channel/UC_jLyhT6yrhw4yvczlKGrzg"><img src="https://img.shields.io/badge/Sean Pugosa-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
@@ -10,7 +10,6 @@
 
 <h1 align="center">Hi 👋, I'm Sean Charles Pugosa</h1>
 <h3 align="center">A very experienced developer, a tech-savvy with a passion for crafting innovative solutions, digital and physical technology. With 10-year journey in the world of computers, I have honed my skills and obtained valuable knowledge that I use to help and influence others.</h3>
-
 <ul>
   <li>👨‍💻 All of my projects are available at <a href="https://bit.ly/scvp_projects" target="_blank">bit.ly/scvp_projects</a></li>
   <li>💬 Ask me about <a href="https://bit.ly/scvp_appointment" target="_blank">bit.ly/scvp_appointment</a></li>
@@ -18,6 +17,30 @@
   <li>📄 Know about my experiences: <a href="https://bit.ly/scvp_profile" target="_blank">bit.ly/scvp_profile</a></li>
 </ul>
 
+<img align="left" src="img/hatsune.png" width="195px"/> 
+
+```csharp
+My Profile v3.1.5: 復興「ふっこう」
+-------------------------------
+Username: Yoshio Keima.
+WhoamI: physicist and Computer Engineer. Also musician (more or less).
+OS: Zorin 16.3.
+Shell: zsh 5.8
+Telegram: @yoshimakayaba.
+FavouriteAnime: 五等分の花嫁 (The Quintessential Quintuplets)💒📕👰🏻
+Loves: 中野五月 (Nakano Itsuki) (❤️ ω ❤️), Videogames 🎮, To play my piano 🎹.
+Pronouns: He-Him.
+Location: Planet Kepler-452b.
+Languages: C,C++, Python.
+Hobbyes: Python, C, C++.
+Learning: Swift, Kotlin.
+FavouriteSong: Sweeter than wine by NCW.
+FavouriteEquation: Fourier transform. 
+Hobbies: Gaming,Watching anime,Coding 
+while I am listening music.
+My Favourite singers (アイドル):  高橋李依 (Takahashi Rie) and  雨宮天 (Amamiya Sora). 🎤🎶🎼
+
+```
 <hr>
 <h3 align="Center">Programming Languages:</h3>
  <!-- <img align="right" alt="Coding" width="400" src="https://github.com/SchrodingerBear/SchrodingerBear.github.io/blob/main/images/profileicongif.gif?raw=true"> -->
