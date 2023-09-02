@@ -17,7 +17,7 @@
   <li>📄 Know about my experiences: <a href="https://bit.ly/scvp_profile" target="_blank">bit.ly/scvp_profile</a></li>
 </ul>
 
-<img align="left" src="img/hatsune.png" width="195px"/> 
+<img align="left" src="img/cute.png" width="195px"/> 
 
 ```csharp
 My Profile v3.1.5: 復興「ふっこう」
