@@ -20,9 +20,9 @@
 </ul>
 
 <hr>
-<h3 align="left">Programming Languages:</h3>
-<img align="right" alt="Coding" width="400" src="https://github.com/SchrodingerBear/SchrodingerBear.github.io/blob/main/images/profileicongif.gif?raw=true">
-<p align="left">
+<h3 align="Center">Programming Languages:</h3>
+ <!-- <img align="right" alt="Coding" width="400" src="https://github.com/SchrodingerBear/SchrodingerBear.github.io/blob/main/images/profileicongif.gif?raw=true"> -->
+<p align="Center">
     <a href="https://www.java.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
     </a>
@@ -34,22 +34,22 @@
     </a>
     <!-- Add more language icons here -->
 </p>
-<h3 align="left">Frontend Development:</h3>
-<p align="left">
+<h3 align="Center">Frontend Development:</h3>
+<p align="Center">
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
         <img src="https://octorzo.com/images/vis-frontend-1.png" alt="css3" width="120" height="40"/>
     </a>
     <!-- Add more frontend development icons here -->
 </p>
-<h3 align="left">Backend Development:</h3>
-<p align="left">
+<h3 align="Center">Backend Development:</h3>
+<p align="Center">
       <a href=https://www.php.net/" target="_blank" rel="noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/800px-PHP-logo.svg.png" alt="c" width="80" height="40"/>
     </a>
     <!-- Add backend development icons here -->
 </p>
-<h3 align="left">Database:</h3>
-<p align="left">
+<h3 align="Center">Database:</h3>
+<p align="Center">
     <a href="https://www.oracle.com/" target="_blank" rel="noreferrer" >
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
     </a>
@@ -61,15 +61,15 @@
     </a>
     <!-- Add more database icons here -->
 </p>
-<h3 align="left">Devops:</h3>
-<p align="left">
+<h3 align="Center">Devops:</h3>
+<p align="Center">
     <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
     </a>
     <!-- Add more DevOps icons here -->
 </p>
-<h3 align="left">Softwares:</h3>
-<p align="left">
+<h3 align="Center">Softwares:</h3>
+<p align="Center">
     <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
     </a>
@@ -78,8 +78,8 @@
     </a>
     <!-- Add more software icons here -->
 </p>
-<h3 align="left">Game Engines:</h3>
-<p align="left">
+<h3 align="Center">Game Engines:</h3>
+<p align="Center">
     <a href="https://unity.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
     </a>
@@ -92,5 +92,5 @@
 <hr>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=schrodingerbear&" alt="schrodingerbear" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=schrodingerbear&show_icons=true&locale=en" alt="schrodingerbear" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=schrodingerbear&show_icons=true&locale=en&layout=compact" alt="schrodingerbear" /></p>
+<p><img align="Center" src="https://github-readme-stats.vercel.app/api/top-langs?username=schrodingerbear&show_icons=true&locale=en&layout=compact" alt="schrodingerbear" /></p>
 
