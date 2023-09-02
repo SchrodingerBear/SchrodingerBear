@@ -41,7 +41,8 @@ Personality Traits: 😄🤔🥳
 Travel Destinations: 🌴✈️🗺️
 ```
 
-<hr>
+<br>
+<h1 align="center"> 🌟 Experience 💯 </h1>
 <h3 align="Center">Programming Languages:</h3>
  <!-- <img align="right" alt="Coding" width="400" src="https://github.com/SchrodingerBear/SchrodingerBear.github.io/blob/main/images/profileicongif.gif?raw=true"> -->
 <p align="Center">
@@ -118,8 +119,33 @@ Travel Destinations: 🌴✈️🗺️
 <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white">
 <img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white"> -->
 
-<hr>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=schrodingerbear&" alt="schrodingerbear" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=schrodingerbear&show_icons=true&locale=en" alt="schrodingerbear" /></p>
-<p><img align="Center" src="https://github-readme-stats.vercel.app/api/top-langs?username=schrodingerbear&show_icons=true&locale=en&layout=compact" alt="schrodingerbear" /></p>
+<h2 align="center"> 🔎Knowledge📖 </h2>
+</div>
+<p align = "center">
+     <a href="https://skillicons.dev">
+        <img style="margin: 10px"src="https://skillicons.dev/icons?i=androidstudio,bash,linux,git,github,java,kotlin,latex,py,swift,c,cpp,css,html,tensorflow,aws&perline=8"alt="My Skills"/> 
+    </a>
+</p>
 
+<br>
+
+<h2 align = "center"> 📉 GitHub Stats</h2>
+<div> 
+<p align = "center">
+    <a href="https://github-readme-stats.vercel.app">
+        <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=SchrodingerBear&count_private=true&theme=radical&show_icons=true&hide_border=false"/>
+    </a>
+    <a href="https://github-readme-streak-stats.herokuapp.com">
+        <img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=SchrodingerBear&theme=radical&hide_border=false&date_format=%5BY%20%5DM%20j"/>
+    </a>
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img width="50%" align="left"alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=SchrodingerBear&theme=juicyfresh&row=4&column=4"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SchrodingerBear&hide_border=false&theme=radical&layout=compact&hide_progress=false&hide=jupyter%20notebook&langs_count=6" align="right" width = "41%" />
+    </a>
+    <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+        <img width="120%" alt="Stats" src="https://github-readme-activity-graph.vercel.app/graph?username=SchrodingerBear&theme=redical"/>
+    </a>
+</p>
+</div>
+<br>
+<br>
