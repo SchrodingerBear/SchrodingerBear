@@ -2,10 +2,10 @@
   <img src="https://github.com/SchrodingerBear/SchrodingerBear/blob/main/asset/gifprofile.gif?raw=true" width="2000" heigth="1000"/>
 </div>
  <div style="text-align: center;">
-        <a href="https://m.youtube.com/carlcastanas"><img src="https://img.shields.io/badge/Sean Pugosa-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
-        <a href="https://instagram.com/carlcastanas"><img src="https://img.shields.io/badge/Sean Pugosa-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
-        <a href="https://www.linkedin.com/in/carlcastanas/"><img src="https://img.shields.io/badge/Sean Pugosa-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
-        <a href="https://www.facebook.com/carlcastanas/"><img src="https://img.shields.io/badge/Sean Pugosa-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+        <a href="https://www.youtube.com/channel/UC_jLyhT6yrhw4yvczlKGrzg"><img src="https://img.shields.io/badge/Sean Pugosa-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+        <a href=""><img src="https://img.shields.io/badge/Sean Pugosa-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+        <a href="https://www.linkedin.com/in/scvpprofile/"><img src="https://img.shields.io/badge/Sean Pugosa-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
+        <a href="https://www.facebook.com/scvpfb/"><img src="https://img.shields.io/badge/Sean Pugosa-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
     </div>
 
 <h1 align="center">Hi 👋, I'm Sean Charles Pugosa</h1>
