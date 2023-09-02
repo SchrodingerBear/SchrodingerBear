@@ -20,27 +20,27 @@
 <img align="left" src="asset/cute.gif" width="195px"/> 
 
 ```csharp
-My Profile v3.1.5: 復興「ふっこう」
+(｡♥‿♥｡) "簡単な詳細" (｡♥‿♥｡)
 -------------------------------
-Username: Yoshio Keima.
-WhoamI: physicist and Computer Engineer. Also musician (more or less).
-OS: Zorin 16.3.
-Shell: zsh 5.8
-Telegram: @yoshimakayaba.
-FavouriteAnime: 五等分の花嫁 (The Quintessential Quintuplets)💒📕👰🏻
-Loves: 中野五月 (Nakano Itsuki) (❤️ ω ❤️), Videogames 🎮, To play my piano 🎹.
-Pronouns: He-Him.
-Location: Planet Kepler-452b.
-Languages: C,C++, Python.
-Hobbyes: Python, C, C++.
-Learning: Swift, Kotlin.
-FavouriteSong: Sweeter than wine by NCW.
-FavouriteEquation: Fourier transform. 
-Hobbies: Gaming,Watching anime,Coding 
-while I am listening music.
-My Favourite singers (アイドル):  高橋李依 (Takahashi Rie) and  雨宮天 (Amamiya Sora). 🎤🎶🎼
-
+Username: Primrose RedBud.
+Description:
+Educational Attainment: 📚🎓
+Interests: 🌟🤩
+Telegram: 📱💬
+Goal: 🎯🏆
+Loves: ❤️😍
+Location: 🌍📍
+Languages: 🗣️🌐
+Hobbies: 🎨🎮🏋️‍♂️
+Learning: 📖🧠
+Favourite Song: 🎵🎶🎧
+Favourite Equation: ➗✖️📊
+My Favourite singers: 🎤🎶🎼
+Favorite Movie: 🎬🍿📽️
+Personality Traits: 😄🤔🥳
+Travel Destinations: 🌴✈️🗺️
 ```
+
 <hr>
 <h3 align="Center">Programming Languages:</h3>
  <!-- <img align="right" alt="Coding" width="400" src="https://github.com/SchrodingerBear/SchrodingerBear.github.io/blob/main/images/profileicongif.gif?raw=true"> -->
