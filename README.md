@@ -17,8 +17,6 @@
   <li>📄 Know about my experiences: <a href="https://bit.ly/scvp_profile" target="_blank">bit.ly/scvp_profile</a></li>
 </ul>
 
-
-
 <br>
 <h1 align="center"> 🌟 Experience 💯 </h1>
 <h3 align="Center">Programming Languages:</h3>
@@ -101,7 +99,7 @@
 </div>
 <p align = "center">
      <a href="https://skillicons.dev">
-        <img style="margin: 10px"src="https://skillicons.dev/icons?i=androidstudio,bash,linux,git,github,java,kotlin,latex,py,swift,c,cpp,css,html,tensorflow,aws&perline=8"alt="My Skills"/> 
+        <img style="margin: 10px;" src="https://skillicons.dev/icons?i=discord,php,sqlite,mysql,codepen,github,eclipse,idea,java,c,cpp,cs,py,html,css,javascript,&perline=8"alt="My Skills"/> 
     </a>
 </p>
 
