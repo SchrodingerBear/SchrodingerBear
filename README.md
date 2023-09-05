@@ -17,29 +17,7 @@
   <li>📄 Know about my experiences: <a href="https://bit.ly/scvp_profile" target="_blank">bit.ly/scvp_profile</a></li>
 </ul>
 
-<img align="left" src="asset/cute.gif" width="195px"/> 
 
-```csharp
-(｡♥‿♥｡) "簡単な詳細" (｡♥‿♥｡)
--------------------------------
-Username: Primrose RedBud.
-Description:
-Educational Attainment: 📚🎓
-Interests: 🌟🤩
-Telegram: 📱💬
-Goal: 🎯🏆
-Loves: ❤️😍
-Location: 🌍📍
-Languages: 🗣️🌐
-Hobbies: 🎨🎮🏋️‍♂️
-Learning: 📖🧠
-Favourite Song: 🎵🎶🎧
-Favourite Equation: ➗✖️📊
-My Favourite singers: 🎤🎶🎼
-Favorite Movie: 🎬🍿📽️
-Personality Traits: 😄🤔🥳
-Travel Destinations: 🌴✈️🗺️
-```
 
 <br>
 <h1 align="center"> 🌟 Experience 💯 </h1>
