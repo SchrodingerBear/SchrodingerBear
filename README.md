@@ -3,7 +3,6 @@
   <img src="asset/gifprofile.gif?raw=true" width="800" heigth="800"/>
 </div>
 
-
  <div style="text-align: center;">
         <a href="https://www.youtube.com/channel/UC_jLyhT6yrhw4yvczlKGrzg"><img src="https://img.shields.io/badge/Sean Pugosa-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
         <a href=""><img src="https://img.shields.io/badge/Sean Pugosa-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
