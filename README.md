@@ -1,6 +1,9 @@
+<!-- HEADER -->
 <div id="header" align="center">
-  <img src="asset/gifprofile.gif?raw=true" width="2000" heigth="1000"/>
+  <img src="asset/gifprofile.gif?raw=true" width="800" heigth="800"/>
 </div>
+
+
  <div style="text-align: center;">
         <a href="https://www.youtube.com/channel/UC_jLyhT6yrhw4yvczlKGrzg"><img src="https://img.shields.io/badge/Sean Pugosa-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
         <a href=""><img src="https://img.shields.io/badge/Sean Pugosa-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
@@ -18,11 +21,15 @@
 </ul>
 
 <br>
+
+<!-- EXPERIENCE -->
 <h1 align="center"> 🌟 Experience 💯 </h1>
-<h3 align="Center">Programming Languages:</h3>
- <!-- <img align="right" alt="Coding" width="400" src="https://github.com/SchrodingerBear/SchrodingerBear.github.io/blob/main/images/profileicongif.gif?raw=true"> -->
-<p align="Center">
-    <a href="https://www.java.com" target="_blank" rel="noreferrer">
+ <table width="100%">
+        <tr>
+            <td width="50%">
+                <h3 align="Center">Programming Languages:</h3>
+                <p align="Center">
+                    <a href="https://www.java.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
     </a>
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
@@ -31,13 +38,44 @@
     <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
     </a>
-    <!-- Add more language icons here -->
+                </p>
+                <h3 align="Center">Frontend Development:</h3>
+                <p align="Center">
+                    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+        <img src="https://octorzo.com/images/vis-frontend-1.png" alt="css3" width="120" height="40"/>
+    </a>
+                </p>
+                <h3 align="Center">Backend Development:</h3>
+                <p align="Center">
+                    <!-- Backend icons here -->
+                </p>
+            </td>
+            <td width="50%">
+                <h3 align="Center">Database:</h3>
+                <p align="Center">
+                    <!-- Database icons here -->
+                </p>
+                <h3 align="Center">Devops:</h3>
+                <p align="Center">
+                    <!-- DevOps icons here -->
+                </p>
+                <h3 align="Center">Softwares:</h3>
+                <p align="Center">
+                    <!-- Software icons here -->
+                </p>
+                <h3 align="Center">Game Engines:</h3>
+                <p align="Center">
+                    <!-- Game engine icons here -->
+                </p>
+            </td>
+        </tr>
+    </table>
+
+
 </p>
 <h3 align="Center">Frontend Development:</h3>
 <p align="Center">
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-        <img src="https://octorzo.com/images/vis-frontend-1.png" alt="css3" width="120" height="40"/>
-    </a>
+    
     <!-- Add more frontend development icons here -->
 </p>
 <h3 align="Center">Backend Development:</h3>
@@ -88,6 +126,7 @@
     <!-- Add more game engine icons here -->
 </p>
 
+<!-- EXTRAS -->
 <!-- <img style="center" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css3%20-%2314354C.svg?&style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
 <img src="https://img.shields.io/badge/git%20-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/>
@@ -95,15 +134,13 @@
 <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white">
 <img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white"> -->
 
+<br>
 <h2 align="center"> 🔎Knowledge📖 </h2>
-</div>
 <p align = "center">
      <a href="https://skillicons.dev">
         <img style="margin: 10px;" src="https://skillicons.dev/icons?i=discord,php,sqlite,mysql,codepen,github,eclipse,idea,java,c,cpp,cs,py,html,css,javascript,&perline=8"alt="My Skills"/> 
     </a>
 </p>
-
-<br>
 
 <h2 align = "center"> 📉 GitHub Stats</h2>
 <div> 
