@@ -72,7 +72,8 @@
                     <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
     </a>
-                </p>
+                </p></td>
+                <td width="33%">
                 <h3 align="Center">Softwares:</h3>
                 <p align="Center">
                     <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
@@ -81,7 +82,8 @@
     <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
     </a>
-                </p>
+                </p></td>
+                <td width="33%">
                 <h3 align="Center">Game Engines:</h3>
                 <p align="Center">
                    <a href="https://unity.com/" target="_blank" rel="noreferrer">
