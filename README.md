@@ -26,7 +26,7 @@
 <h1 align="center"> 🌟 Experience 💯 </h1>
  <table width="100%">
         <tr>
-            <td width="50%">
+            <td width="33%">
                 <h3 align="Center">Programming Languages:</h3>
                 <p align="Center">
                     <a href="https://www.java.com" target="_blank" rel="noreferrer">
@@ -47,47 +47,15 @@
                 </p>
                 <h3 align="Center">Backend Development:</h3>
                 <p align="Center">
-                    <!-- Backend icons here -->
-                </p>
-            </td>
-            <td width="50%">
-                <h3 align="Center">Database:</h3>
-                <p align="Center">
-                    <!-- Database icons here -->
-                </p>
-                <h3 align="Center">Devops:</h3>
-                <p align="Center">
-                    <!-- DevOps icons here -->
-                </p>
-                <h3 align="Center">Softwares:</h3>
-                <p align="Center">
-                    <!-- Software icons here -->
-                </p>
-                <h3 align="Center">Game Engines:</h3>
-                <p align="Center">
-                    <!-- Game engine icons here -->
-                </p>
-            </td>
-        </tr>
-    </table>
-
-
-</p>
-<h3 align="Center">Frontend Development:</h3>
-<p align="Center">
-    
-    <!-- Add more frontend development icons here -->
-</p>
-<h3 align="Center">Backend Development:</h3>
-<p align="Center">
-      <a href=https://www.php.net/" target="_blank" rel="noreferrer">
+                          <a href=https://www.php.net/" target="_blank" rel="noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/800px-PHP-logo.svg.png" alt="c" width="80" height="40"/>
     </a>
-    <!-- Add backend development icons here -->
-</p>
-<h3 align="Center">Database:</h3>
-<p align="Center">
-    <a href="https://www.oracle.com/" target="_blank" rel="noreferrer" >
+                </p>
+            </td>
+            <td width="33%">
+                <h3 align="Center">Database:</h3>
+                <p align="Center">
+                        <a href="https://www.oracle.com/" target="_blank" rel="noreferrer" >
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
     </a>
     <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer" >
@@ -96,35 +64,36 @@
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" >
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
     </a>
-    <!-- Add more database icons here -->
-</p>
-<h3 align="Center">Devops:</h3>
-<p align="Center">
-    <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
+                </p>
+                </td>
+                <td width="33%">
+                <h3 align="Center">Devops:</h3>
+                <p align="Center">
+                    <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
     </a>
-    <!-- Add more DevOps icons here -->
-</p>
-<h3 align="Center">Softwares:</h3>
-<p align="Center">
-    <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
+                </p>
+                <h3 align="Center">Softwares:</h3>
+                <p align="Center">
+                    <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
     </a>
     <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
     </a>
-    <!-- Add more software icons here -->
-</p>
-<h3 align="Center">Game Engines:</h3>
-<p align="Center">
-    <a href="https://unity.com/" target="_blank" rel="noreferrer">
+                </p>
+                <h3 align="Center">Game Engines:</h3>
+                <p align="Center">
+                   <a href="https://unity.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
     </a>
       <a href="https://create.roblox.com/" target="_blank" rel="noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Roblox_Studio_logo_2021_present.svg/2048px-Roblox_Studio_logo_2021_present.svg.png" alt="unity" width="40" height="40"/>
     </a>
-    <!-- Add more game engine icons here -->
-</p>
+                </p>
+            </td>
+        </tr>
+    </table>
 
 <!-- EXTRAS -->
 <!-- <img style="center" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css3%20-%2314354C.svg?&style=for-the-badge&logo=css3&logoColor=white">
