@@ -26,7 +26,7 @@
 <h1 align="center"> 🌟 Experience 💯 </h1>
  <table align="center" width="100%">
         <tr>
-            <td width="30%">
+            <td width="13%">
                 <h3 align="Center">Programming Languages:</h3>
                 <p align="Center">
                     <a href="https://www.java.com" target="_blank" rel="noreferrer">
@@ -39,14 +39,14 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
     </a>
                 </p></td>
-                <td width="30%">
+                <td width="13%">
                 <h3 align="Center">Frontend Development:</h3>
                 <p align="Center">
                     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
         <img src="https://octorzo.com/images/vis-frontend-1.png" alt="css3" width="120" height="40"/>
     </a>
                 </p></td>
-                <td width="30%">
+                <td width="13%">
                 <h3 align="Center">Backend Development:</h3>
                 <p align="Center">
                           <a href=https://www.php.net/" target="_blank" rel="noreferrer">
@@ -54,7 +54,7 @@
     </a>
                 </p>
             </td>
-            <td width="100%">
+            <td width="13%">
                 <h3 align="Center">Database:</h3>
                 <p align="Center">
                         <a href="https://www.oracle.com/" target="_blank" rel="noreferrer" >
@@ -68,14 +68,14 @@
     </a>
                 </p>
                 </td>
-                <td width="100%">
+                <td width="13%">
                 <h3 align="Center">Devops:</h3>
                 <p align="Center">
                     <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
     </a>
                 </p></td>
-                <td width="100%">
+                <td width="13%">
                 <h3 align="Center">Softwares:</h3>
                 <p align="Center">
                     <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
@@ -85,7 +85,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
     </a>
                 </p></td>
-                <td width="100%">
+                <td width="13%">
                 <h3 align="Center">Game Engines:</h3>
                 <p align="Center">
                    <a href="https://unity.com/" target="_blank" rel="noreferrer">
