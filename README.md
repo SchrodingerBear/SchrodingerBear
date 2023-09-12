@@ -3,6 +3,7 @@
   <img src="asset/gifprofile.gif?raw=true" width="800" heigth="800"/>
 </div>
 
+
  <div style="text-align: center;">
         <a href="https://www.youtube.com/channel/UC_jLyhT6yrhw4yvczlKGrzg"><img src="https://img.shields.io/badge/Sean Pugosa-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
         <a href=""><img src="https://img.shields.io/badge/Sean Pugosa-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
@@ -22,10 +23,10 @@
 <br>
 
 <!-- EXPERIENCE -->
-<h1 align="center"> 🌟 Experience 💯 </h1>
+<h1 align="right"> 🌟 Experience 💯 </h1>
  <table width="100%">
         <tr>
-            <td width="50%">
+            <td width="33%">
                 <h3 align="Center">Programming Languages:</h3>
                 <p align="Center">
                     <a href="https://www.java.com" target="_blank" rel="noreferrer">
@@ -51,7 +52,7 @@
     </a>
                 </p>
             </td>
-            <td width="50%">
+            <td width="33%">
                 <h3 align="Center">Database:</h3>
                 <p align="Center">
                         <a href="https://www.oracle.com/" target="_blank" rel="noreferrer" >
@@ -65,7 +66,7 @@
     </a>
                 </p>
                 </td>
-                <td width="50%">
+                <td width="33%">
                 <h3 align="Center">Devops:</h3>
                 <p align="Center">
                     <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
