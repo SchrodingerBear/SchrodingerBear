@@ -26,7 +26,7 @@
 <h1 align="right"> 🌟 Experience 💯 </h1>
  <table width="100%">
         <tr>
-            <td width="100%">
+            <td width="30%">
                 <h3 align="Center">Programming Languages:</h3>
                 <p align="Center">
                     <a href="https://www.java.com" target="_blank" rel="noreferrer">
@@ -38,13 +38,15 @@
     <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
     </a>
-                </p>
+                </p></td>
+                <td width="30%">
                 <h3 align="Center">Frontend Development:</h3>
                 <p align="Center">
                     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
         <img src="https://octorzo.com/images/vis-frontend-1.png" alt="css3" width="120" height="40"/>
     </a>
-                </p>
+                </p></td>
+                <td width="30%">
                 <h3 align="Center">Backend Development:</h3>
                 <p align="Center">
                           <a href=https://www.php.net/" target="_blank" rel="noreferrer">
