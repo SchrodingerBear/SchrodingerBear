@@ -108,7 +108,6 @@
 <img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white"> -->
 
 <br>
-<h2 align="center"> 🔎Knowledge📖 </h2>
 <p align = "center">
      <a href="https://skillicons.dev">
         <img style="margin: 10px;" src="https://skillicons.dev/icons?i=discord,php,sqlite,mysql,codepen,github,eclipse,idea,java,c,cpp,cs,py,html,css,javascript,&perline=8"alt="My Skills"/> 
