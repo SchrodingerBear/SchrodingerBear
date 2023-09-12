@@ -25,7 +25,7 @@
 <h1 align="center"> 🌟 Experience 💯 </h1>
  <table width="100%">
         <tr>
-            <td width="33%">
+            <td width="50%">
                 <h3 align="Center">Programming Languages:</h3>
                 <p align="Center">
                     <a href="https://www.java.com" target="_blank" rel="noreferrer">
@@ -51,7 +51,7 @@
     </a>
                 </p>
             </td>
-            <td width="33%">
+            <td width="50%">
                 <h3 align="Center">Database:</h3>
                 <p align="Center">
                         <a href="https://www.oracle.com/" target="_blank" rel="noreferrer" >
@@ -65,7 +65,7 @@
     </a>
                 </p>
                 </td>
-                <td width="33%">
+                <td width="50%">
                 <h3 align="Center">Devops:</h3>
                 <p align="Center">
                     <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
