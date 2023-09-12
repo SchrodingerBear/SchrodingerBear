@@ -26,7 +26,7 @@
 <h1 align="right"> 🌟 Experience 💯 </h1>
  <table width="100%">
         <tr>
-            <td width="33%">
+            <td width="100%">
                 <h3 align="Center">Programming Languages:</h3>
                 <p align="Center">
                     <a href="https://www.java.com" target="_blank" rel="noreferrer">
@@ -52,7 +52,7 @@
     </a>
                 </p>
             </td>
-            <td width="33%">
+            <td width="100%">
                 <h3 align="Center">Database:</h3>
                 <p align="Center">
                         <a href="https://www.oracle.com/" target="_blank" rel="noreferrer" >
@@ -66,14 +66,14 @@
     </a>
                 </p>
                 </td>
-                <td width="33%">
+                <td width="100%">
                 <h3 align="Center">Devops:</h3>
                 <p align="Center">
                     <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
     </a>
                 </p></td>
-                <td width="33%">
+                <td width="100%">
                 <h3 align="Center">Softwares:</h3>
                 <p align="Center">
                     <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
@@ -83,7 +83,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
     </a>
                 </p></td>
-                <td width="33%">
+                <td width="100%">
                 <h3 align="Center">Game Engines:</h3>
                 <p align="Center">
                    <a href="https://unity.com/" target="_blank" rel="noreferrer">
@@ -99,7 +99,7 @@
 
 <!-- EXTRAS -->
 <!-- <img style="center" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css3%20-%2314354C.svg?&style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+<img src="https://img.shields.io/badge/javascript%20-%2100210030.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
 <img src="https://img.shields.io/badge/git%20-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 <img src="http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue">
 <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white">
