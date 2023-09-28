@@ -23,7 +23,7 @@
 <br>
 
 <!-- EXPERIENCE -->
-<h1 align="center"> 🌟 Experience 💯 </h1>
+<h1 align="center"> 🌟 Stack Experience 💯 </h1>
  <table align="center" width="100%">
         <tr>
             <td width="13%">
