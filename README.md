@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <div id="header" align="center">
-    <img src="asset/gifprofile.gif?raw=true" width="800" height="300"/>
+    <img src="assets/gifprofile.gif?raw=true" width="800" height="300"/>
 </div>
 
 <div align="center" style="margin: 20px;">
@@ -44,3 +44,36 @@
     <img width="120%" alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=SchrodingerBear&theme=merko"/>
 </p>
 <br>
+
+
+<h1 align='center'>PERSONAL SPACE</h1>
+<hr>
+<div>
+<img src="assets/face.png" width="300" align="right" />
+<br/>
+<img src="assets/about.png" width="500" />
+<br/>
+<br/>
+  
+- A Full-Stack developer, coding the shadows that dwell between  digital dimensions
+- Two decades of existence, drawn into the mystic of code
+- Code flows through my veins—PHP, Python, SQL—each line a thread in the fabric of creation.
+- Eyes linger on anime, hands turn the digital pages of manhwa.
+- An insatiable hunger for the unknown—machine learning, and intelligence stirs in the void.
+
+<img src="assets/sung-jin-woo.png" width="300" align="right" />
+<br/>
+<img src="assets/contact.png" width="500" />
+<br/>
+<br/>
+  
+- 🌐 [***Facebook Account***](https://fb.com/scvpfb) <br/>
+- 💼 [***Company Site***](https://innovatechservicesph.com/landing) <br/>
+- 📊 [***Company Dashboard***](https://innovatechservicesph.com) <br/>
+- 🔧 [***Admin Site***](https://innovatechservicesph.com/admin) <br/>
+- 💻 [***React Portfolio***](https://www.scvp.online/react) <br/>
+<br/>
+
+<img src="assets/jin-woo.gif" width="500" /><br/>
+
+<sub> *“The codebase fears me more than the developers do” – Code Overlord* </sub>
