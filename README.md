@@ -4,21 +4,21 @@
 </div>
 
 
- <div style="text-align: center;">
+<div align="center" style="margin: 20px;">
         <a href="https://www.youtube.com/channel/UC_jLyhT6yrhw4yvczlKGrzg"><img src="https://img.shields.io/badge/Sean Pugosa-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
         <a href=""><img src="https://img.shields.io/badge/Sean Pugosa-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
         <a href="https://www.linkedin.com/in/scvpprofile/"><img src="https://img.shields.io/badge/Sean Pugosa-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
         <a href="https://www.facebook.com/scvpfb/"><img src="https://img.shields.io/badge/Sean Pugosa-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
-    </div>
+</div>
 
 <h1 align="center">Hi 👋, I'm Sean Charles Pugosa</h1>
 <h3 align="center">A very experienced developer, a tech-savvy with a passion for crafting innovative solutions, digital and physical technology. With 10-year journey in the world of computers, I have honed my skills and obtained valuable knowledge that I use to help and influence others.</h3>
-<ul>
+<!-- <ul>
   <li>👨‍💻 All of my projects are available at <a href="https://bit.ly/scvp_projects" target="_blank">bit.ly/scvp_projects</a></li>
   <li>💬 Ask me about <a href="https://bit.ly/scvp_appointment" target="_blank">bit.ly/scvp_appointment</a></li>
   <li>📫 How to reach me: <a href="mailto:seancvpugosa@gmail.com" target="_blank">seancvpugosa@gmail.com</a></li>
   <li>📄 Know about my experiences: <a href="https://bit.ly/scvp_profile" target="_blank">bit.ly/scvp_profile</a></li>
-</ul>
+</ul> -->
 
 <br>
 
