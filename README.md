@@ -3,7 +3,6 @@
   <img src="asset/gifprofile.gif?raw=true" width="800" heigth="800"/>
 </div>
 
-
 <div align="center" style="margin: 20px;">
         <a href="https://www.youtube.com/channel/UC_jLyhT6yrhw4yvczlKGrzg"><img src="https://img.shields.io/badge/Sean Pugosa-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
         <a href=""><img src="https://img.shields.io/badge/Sean Pugosa-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
@@ -13,12 +12,6 @@
 
 <h1 align="center">Hi 👋, I'm Sean Charles Pugosa</h1>
 <h3 align="center">A very experienced developer, a tech-savvy with a passion for crafting innovative solutions, digital and physical technology. With 10-year journey in the world of computers, I have honed my skills and obtained valuable knowledge that I use to help and influence others.</h3>
-<!-- <ul>
-  <li>👨‍💻 All of my projects are available at <a href="https://bit.ly/scvp_projects" target="_blank">bit.ly/scvp_projects</a></li>
-  <li>💬 Ask me about <a href="https://bit.ly/scvp_appointment" target="_blank">bit.ly/scvp_appointment</a></li>
-  <li>📫 How to reach me: <a href="mailto:seancvpugosa@gmail.com" target="_blank">seancvpugosa@gmail.com</a></li>
-  <li>📄 Know about my experiences: <a href="https://bit.ly/scvp_profile" target="_blank">bit.ly/scvp_profile</a></li>
-</ul> -->
 
 <br>
 
@@ -100,17 +93,12 @@
     </table>
 
 <!-- EXTRAS -->
-<!-- <img style="center" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css3%20-%2314354C.svg?&style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/javascript%20-%2100210030.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-<img src="https://img.shields.io/badge/git%20-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-<img src="http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue">
-<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white">
-<img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white"> -->
+
 
 <br>
-<p align = "center">
-     <a href="https://skillicons.dev">
-        <img style="margin: 10px;" src="https://skillicons.dev/icons?i=discord,php,sqlite,mysql,codepen,github,eclipse,idea,java,c,cpp,cs,py,html,css,javascript,&perline=8"alt="My Skills"/> 
+<p align="center">
+    <a href="https://skillicons.dev">
+        <img style="margin: 10px;" src="https://skillicons.dev/icons?i=discord,php,sqlite,mysql,codepen,github,eclipse,idea,java,c,cpp,cs,py,html,css,javascript,vue,laravel,git,kotlin,androidstudio,flutter,tailwind,sass,npm,react,photoshop,vite,unity,jquery,flask,figma,gmail,github,html,css,js,postgres,graphql,sublime,vscode,azure,visualstudio,mongodb,gcp,firebase,htmx,threejs,tensorflow,express,qt,postman,powershell,replit,robloxstudiobootstrap&perline=8" alt="My Skills"/> 
     </a>
 </p>
 
