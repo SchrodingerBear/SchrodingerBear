@@ -17,7 +17,7 @@
 
 <!-- EXPERIENCE -->
 <h1 align="center"> 🌟 Stack Experience 💯 </h1>
- <table align="center" width="100%">
+<!--  <table align="center" width="100%">
         <tr>
             <td width="13%">
                 <h3 align="Center">Programming Languages:</h3>
@@ -90,7 +90,7 @@
                 </p>
             </td>
         </tr>
-    </table>
+    </table> -->
 
 <!-- EXTRAS -->
 
