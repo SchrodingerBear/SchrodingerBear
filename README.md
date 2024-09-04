@@ -103,22 +103,17 @@
   
 </p>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SchrodingerBear&layout=compact&theme=radical" alt="Top Langs" />
 </div>
 
 
 <h2 align = "center"> 📉 GitHub Stats</h2>
 <div> 
 <p align="center">
-    <a href="https://github-readme-stats.vercel.app">
-        <img width="49%" height="195px" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=SchrodingerBear&count_private=true&theme=radical&show_icons=true&hide_border=false"/>
-    </a>
-    <a href="https://github-readme-streak-stats.herokuapp.com">
-        <img width="49%" height="195px" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=SchrodingerBear&theme=radical&hide_border=false&date_format=%5BY%20%5DM%20j"/>
-    </a>
-    <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-        <img width="120%" alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=SchrodingerBear&theme=redical"/>
-    </a>
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SchrodingerBear&layout=compact&theme=radical" alt="Top Langs" /><br>
+         <img width="49%" height="195px" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=SchrodingerBear&count_private=true&theme=radical&show_icons=true&hide_border=false"/>
+           <img width="49%" height="195px" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=SchrodingerBear&theme=radical&hide_border=false&date_format=%5BY%20%5DM%20j"/>
+          <img width="120%" alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=SchrodingerBear&theme=redical"/>
+  
 </p>
 
 </div>
