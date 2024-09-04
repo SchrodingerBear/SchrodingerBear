@@ -100,7 +100,12 @@
     <a href="https://skillicons.dev">
         <img style="margin: 10px;" src="https://skillicons.dev/icons?i=discord,php,sqlite,mysql,codepen,github,eclipse,idea,java,c,cpp,cs,py,html,css,javascript,vue,laravel,git,kotlin,androidstudio,flutter,tailwind,sass,npm,react,photoshop,vite,unity,jquery,flask,figma,gmail,github,html,css,js,postgres,graphql,sublime,vscode,azure,visualstudio,mongodb,gcp,firebase,htmx,threejs,tensorflow,express,qt,postman,powershell,replit,robloxstudiobootstrap&perline=8" alt="My Skills"/> 
     </a>
+  
 </p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SchrodingerBear&layout=compact&theme=radical" alt="Top Langs" />
+</div>
+
 
 <h2 align = "center"> 📉 GitHub Stats</h2>
 <div> 
@@ -118,3 +123,4 @@
 </div>
 <br>
 <br>
+
