@@ -109,7 +109,7 @@
 <h2 align = "center"> 📉 GitHub Stats</h2>
 <div> 
 <p align="center">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SchrodingerBear&layout=compact&theme=vision-friendly-dark" alt="Top Langs" /><br>
+          <img src="https://github-readme-stats-six-sandy.vercel.app/api/top-langs/?username=SchrodingerBear&layout=compact&theme=vision-friendly-dark" alt="Top Langs" /><br>
          <img width="49%" height="195px" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=SchrodingerBear&count_private=true&theme=vision-friendly-dark&show_icons=true&hide_border=false"/>
            <img width="49%" height="195px" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=SchrodingerBear&theme=vision-friendly-dark&hide_border=false&date_format=%5BY%20%5DM%20j"/>
           <img width="120%" alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=SchrodingerBear&theme=merko"/>
