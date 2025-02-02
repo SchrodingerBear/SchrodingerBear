@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <div id="header" align="center">
-    <img src="asset/gifprofile.gif?raw=true" width="800" height="800"/>
+    <img src="asset/gifprofile.gif?raw=true" width="800" height="300"/>
 </div>
 
 <div align="center" style="margin: 20px;">
