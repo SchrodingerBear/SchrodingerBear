@@ -58,6 +58,7 @@
 - A Full-Stack developer, coding the shadows that dwell between  digital dimensions
 - Two decades of existence, drawn into the mystic of code
 - Code flows through my veins—PHP, Python, SQL—each line a thread in the fabric of creation.
+- There is limitless power in the digital void, where boundaries shatter and reality fades.
 - An insatiable hunger for the unknown—machine learning, and intelligence stirs in the void.
 
 <img src="assets/sung-jin-woo.png" width="300" align="right" />
