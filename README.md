@@ -39,7 +39,7 @@
 
 <h2 align="center">📉 GitHub Stats</h2>
 <p align="center">
-    <img  style="height: auto !important;" alt="Top Langs" src="https://github-readme-stats-six-sandy.vercel.app/api/top-langs/?username=SchrodingerBear&layout=compact&theme=vision-friendly-dark"/><br>
+    <img  style="height: auto !important;" alt="Top Langs" src="https://github-readme-stats-six-sandy.vercel.app/api/top-langs/?username=SchrodingerBear&layout=compact&theme=vision-friendly-dark&langs_count=100"/><br>
     <img  style="height: auto !important;" alt="Streak Stats" src="https://github-readme-streak-stats-tan-nine.vercel.app/?user=SchrodingerBear&theme=vision-friendly-dark&hide_border=false&date_format=%5BY%20%5DM%20j"/>
     <img width="120%" alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=SchrodingerBear&theme=merko"/>
 </p>
