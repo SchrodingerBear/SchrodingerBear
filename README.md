@@ -20,10 +20,10 @@
 
 <h2 align="center">Hi 👋, I'm Sean Charles Pugosa</h2>
 <h3 align="center">
-    Lead Developer, CEO of InnovatechPH. A very experienced full-stack developer, a tech-savvy with a passion for crafting innovative solutions, IOT, digital and physical technology. With a 10-year journey in the world of computers, I have honed my skills and obtained valuable knowledge that I use to help and influence others.
+    Lead Developer, Representative of InnovatechPH. A very experienced full-stack developer, a tech-savvy with a passion for crafting innovative solutions, IOT, digital and physical technology. With a 10-year journey in the world of computers, I have honed my skills and obtained valuable knowledge that I use to help and influence others.
     
 <hr>
-* DUE TO CONTRACT RESTRICTIONS,  MOST OF MY REPOSITORIES ARE SET TO PRIVATE *
+* DUE TO CONTRACT RESTRICTIONS,  MOST OF REPOSITORIES ARE SET TO PRIVATE *
   
 </h3>
 
